@@ -1,4 +1,4 @@
-Conhecendo TypeScrpy , repositorio criado e focado em desenvolver e consolidar conhecimentos envolvidos e revisar codigo e pratica de versionamento Git
+Conhecendo TypeScript , repositorio criado e focado em desenvolver e consolidar conhecimentos envolvidos e revisar codigo e pratica de versionamento Git
 
 
   <div style="display: flex; gap: 20">
